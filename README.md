@@ -21,4 +21,4 @@ Additionally, there are two more files to describe the features:
 - DIAS Attributes - Values 2017.xlsx 
 
 ### Pre-Installation
-Python 3.x ,Jupyter Notebook, NumPy, Pandas, SciPy, matplotlib, seaborn, scikit-learn, xgboost
+Python 3.x , Jupyter Notebook, NumPy, Pandas, SciPy, matplotlib, seaborn, scikit-learn, xgboost
