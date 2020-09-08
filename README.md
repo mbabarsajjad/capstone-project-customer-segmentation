@@ -3,7 +3,7 @@
 
 
 ### Introduction
-In this project ‘Create a Customer Segmentation Report for Arvato Financial Services’, the demographical data will be analysed for the customers of a mail-order company to investigate different patterns. The data is provided by the Arvato Financial Solutions. The idea will be to make different comparisons between the general population and the existing customers to increase the customer base in the future by conducting focused marketing campaigns. 
+In this project, the demographical data will be analysed for the customers of a mail-order company to investigate different patterns. The data is provided by the Arvato Financial Solutions. The idea will be to make different comparisons between the general population and the existing customers to increase the customer base by conducting focused marketing campaigns. 
 
 ### Main Parts
 1.	Get to know Data: data preprocessing will be performed here to investigate the given data and to reencode, reengineer the features which could be problematic in the later analysis.
